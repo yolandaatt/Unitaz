@@ -1,0 +1,14 @@
+{
+  "name": "unitaz",
+  "short_name": "unitaz",
+  "description": "Rensa huvudet - dela på ansvaret.",
+  "lang": "sv",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F9F7F3",
+  "theme_color": "#F9F7F3",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
